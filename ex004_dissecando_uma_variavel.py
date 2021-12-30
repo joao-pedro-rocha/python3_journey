@@ -1,0 +1,10 @@
+algo = input('Digite qualquer coisa: ')
+
+print('O que foi digitado:')
+print('É alfabético?', algo.isalpha())
+print('É numérico?', algo.isnumeric())
+print('É alfanumérico?', algo.isalnum())
+print('Pode ser mostrado na tela?', algo.isprintable())
+print('É somente espaço?', algo.isspace())
+print('Tem letras minúsculas?', algo.islower())
+print('Tem letras maiúsculas?', algo.isupper())
