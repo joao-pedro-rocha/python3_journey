@@ -1,6 +1,7 @@
 # Nao ha uma grande necessidade de 
 # usar tantas variaveis para depois
 # coloca-las no dicionario.
+
 def notas(*notas, sit=False):
 	"""
 	-->Esta funcao recebe uma ou mais notas
