@@ -1,6 +1,6 @@
 import uteis
 
-preco = float(input('Digite um preço: R$ '))
+preco = float(input('Digite um valor: R$ '))
 
 print(uteis.metade(preco))
 print(uteis.dobro(preco))
