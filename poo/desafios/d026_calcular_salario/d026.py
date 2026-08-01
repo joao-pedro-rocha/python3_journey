@@ -37,6 +37,7 @@ from rich.panel import Panel
 from abc import ABC, abstractmethod
 
 
+
 class Funcionario(ABC):
     sal_min = 1612
     inss = 7.5
